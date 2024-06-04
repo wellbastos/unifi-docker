@@ -24,7 +24,7 @@ cd <directory with docker-compose.yml>
 docker-compose up -d 
 ```
 
-**Setting Options:**
+**Setting Options:** 
 
 * The `docker-compose.yml` file contains the options
 passed to Unifi Controller when it starts.
